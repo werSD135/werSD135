@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @werSD135
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/werSD135/werSD135)
 
-<!---
-werSD135/werSD135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Click the icon above to deploy.
+
+Default Protocol : vless (you can choose vmess if u want)
+
+Default UUID: 36cfc3de-ecfd-4752-ae6f-8f0f92035143
+
+Address: appname.herokuapp.com
+
+Port: 443
+
+Path: keep this empty
+
+Network: ws
+
+Credit : https://github.com/teddysun/across
